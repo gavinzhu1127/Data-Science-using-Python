@@ -1,4 +1,4 @@
-# Python-Instruction-Using-Titanic-Data
+# Data-Science-using-Python
 
 ## Content
 The repo includes a Jupyterlab notebook for explaining the baisc syntac of pything for data mugging, data visulization and machine learning.
@@ -21,6 +21,6 @@ The repo includes a Jupyterlab notebook for explaining the baisc syntac of pythi
 
     or use command window to open Jupyterlab by entering "jupyter lab"
 
-    ![title](Jupyterlab.PNG)
+    ![title](cmd.PNG)
 
 6. download the .ipynb file and use Jupyterlab to open
