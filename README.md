@@ -12,6 +12,7 @@ The repo includes a Jupyterlab notebook for explaining the baisc syntac of pythi
     - *conda install -c anaconda seaborn* 
     - *conda install -c plotly plotly*
     - *conda install -c conda-forge nodejs*
+    - *conda install python-graphviz* 
 4. run the following command to install a few more Jupyterlab extension
     - *jupyter labextension install @jupyterlab/toc*
     - *jupyter labextension install @jupyterlab/plotly-extension*   
