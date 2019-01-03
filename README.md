@@ -1,7 +1,7 @@
 # Data-Science-using-Python
 
 ## Content
-The repo includes a Jupyterlab notebook for explaining the baisc syntac of pything for data mugging, data visulization and machine learning.
+The repo includes a Jupyterlab notebook for explaining the baisc syntac of pything for data mugging, data visulization and machine learning processing including import data, feature engineering, feature selection, compare different algorithm, model interpretation and model implementation 
 
 ## Install Anaconda
 1. download Anaconda from [link](https://www.anaconda.com/download/) and choose Python 3 version
@@ -16,12 +16,12 @@ The repo includes a Jupyterlab notebook for explaining the baisc syntac of pythi
 4. run the following command to install a few more Jupyterlab extension
     - *jupyter labextension install @jupyterlab/toc*
     - *jupyter labextension install @jupyterlab/plotly-extension*   
-5. after install you can click Anaconda Navigator to Jupyterlab
+5. after install you can click Anaconda Navigator to launch Jupyterlab
 
     ![title](Jupyterlab.PNG)
 
-    or use command window to open Jupyterlab by entering "jupyter lab"
+    or use command window to launch Jupyterlab by entering "jupyter lab"
 
     ![title](cmd.PNG)
 
-6. download the .ipynb file and use Jupyterlab to open
+6. download the .ipynb file and open it with Jupyterlab
