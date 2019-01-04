@@ -45,11 +45,13 @@ The repo includes a Jupyterlab notebook for explaining the baisc syntac of pythi
     ![title](anaconda.png)
 3. open command window to run the following command in order to install a few more python packages
     - *conda install -c anaconda seaborn* 
+    - *conda install -c conda-forge ipywidgets*
     - *conda install -c plotly plotly*
     - *conda install -c conda-forge nodejs*
     - *conda install python-graphviz* 
 4. run the following command to install a few more Jupyterlab extension
     - *jupyter labextension install @jupyterlab/toc*
+    - *jupyter labextension install @jupyter-widgets/jupyterlab-manager*
     - *jupyter labextension install @jupyterlab/plotly-extension*   
 5. after install you can click Anaconda Navigator to launch Jupyterlab
 
