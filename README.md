@@ -49,6 +49,7 @@ The repo includes a Jupyterlab notebook for explaining the baisc syntac of pythi
     - *conda install -c plotly plotly*
     - *conda install -c conda-forge nodejs*
     - *conda install python-graphviz* 
+    - *pip install pickle* 
 4. run the following command to install a few more Jupyterlab extension
     - *jupyter labextension install @jupyterlab/toc*
     - *jupyter labextension install @jupyter-widgets/jupyterlab-manager*
