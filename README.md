@@ -44,6 +44,7 @@ The repo includes a Jupyterlab notebook for explaining the baisc syntac of pythi
 
     ![title](anaconda.png)
 3. open command window to run the following command in order to install a few more python packages
+    - *conda install -c conda-forge tqdm*
     - *conda install -c anaconda seaborn* 
     - *conda install -c conda-forge ipywidgets*
     - *conda install -c plotly plotly*
