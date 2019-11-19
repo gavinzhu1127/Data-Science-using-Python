@@ -47,6 +47,7 @@ The repo includes a Jupyterlab notebook for explaining the baisc syntac of pythi
     - *conda install -c conda-forge tqdm*
     - *conda install -c anaconda seaborn* 
     - *conda install -c conda-forge ipywidgets*
+    - *conda install -c bokeh bokeh*
     - *conda install -c plotly plotly*
     - *conda install -c conda-forge nodejs*
     - *conda install python-graphviz* 
@@ -57,6 +58,7 @@ The repo includes a Jupyterlab notebook for explaining the baisc syntac of pythi
 4. run the following command to install a few more Jupyterlab extension
     - *jupyter labextension install @jupyterlab/toc*
     - *jupyter labextension install @jupyter-widgets/jupyterlab-manager*
+    - *jupyter labextension install @bokeh/jupyter_bokeh*
     - *jupyter labextension install @jupyterlab/plotly-extension*   
 5. after install you can click Anaconda Navigator to launch Jupyterlab
 
